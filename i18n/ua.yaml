@@ -1,0 +1,27 @@
+## HOME ##
+- id: "home.home"
+  translation: "Головна"
+  
+- id: "home.recent_posts"
+  translation: "Останні пости"
+
+- id: "home.see_all_posts"
+  translation: "Всі пости"
+
+## SINGLE ##
+- id: "single.table_of_contents"
+  translation: "Зміст"
+
+## FOOTER ##
+- id: "footer.go_to_top"
+  translation: "Наверх"
+
+- id: "footer.disclaimer"
+  translation: "Розроблено <a href=\"https://github.com/hugo-sid/hugo-blog-awesome\" target=\"_blank\" rel=\"noopener\">Hugo blog awesome</a>."
+
+## ERRORS ##
+- id: "errors.404"
+  translation: "404 NOT FOUND"
+
+- id: "errors.404_description"
+  translation: "Сторінка не знайдена."
