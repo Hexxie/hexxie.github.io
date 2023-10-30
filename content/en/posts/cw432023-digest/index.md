@@ -30,6 +30,8 @@ https://www.techinterviewhandbook.org/
 
 Well...I always forget how to create venv. Even more...venv for Windows is slightly different. I have some notes for this. I'll post it tomorrow and update this digest accordingly.  
 
+Upd. [Here we go](https://hexxie.github.io/posts/python-env/)
+
 
 ## Youtube videos for self-development
 
