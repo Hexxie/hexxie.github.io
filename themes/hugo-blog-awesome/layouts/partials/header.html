@@ -19,18 +19,6 @@
                         ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">
                         {{ .Name }}
                     </a>
-                    {{ if .HasChildren }}
-                    <ul>
-                        {{ range .Children }}
-                        <li>
-                            <a class="menu-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"
-                                href="{{ .URL }}">
-                                {{ .Name }}
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                    {{ end }}
                 </li>
                 {{ end }}
                 <li class="menu-separator">
@@ -70,3 +58,6 @@
         </div>
     </nav>
 </div>
+{{ if or (eq .Section "posts") (eq .Parent "posts") }}
+    {{- partial "subheader.html" . -}}
+{{ end }}
