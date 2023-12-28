@@ -89,6 +89,15 @@
       align-items: center;
     }
 
+    .trigger-center {
+      display: table;
+      margin: 0 auto;
+
+      @include media-query($on-mobile) {
+        display:none;
+      }
+    }
+
     .menu-trigger {
       display: none;
     }
@@ -201,5 +210,13 @@
           padding: 2px 0;
         }
       }
+    }
+  }
+  //Submenu
+  .subbar {
+    border: none;
+
+    @include media-query($on-mobile) {
+      display:none;
     }
   }

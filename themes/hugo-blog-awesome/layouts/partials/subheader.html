@@ -1,0 +1,25 @@
+<div class="navbar subbar" role="navigation">
+    <nav class="menu" aria-label="Sub Navigation">
+    <div class="trigger-center">
+        <ul class="trigger-container">
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+            <li>
+                {{ if .HasChildren }}
+                <ul>
+                    {{ range .Children }}
+                    <li>
+                        <a class="menu-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"
+                            href="{{ .URL }}">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    </nav>
+</div>
