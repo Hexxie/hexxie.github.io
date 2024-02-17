@@ -1,5 +1,5 @@
 ---
-title: Binary anatomy [PWN][REV]
+title: Binary anatomy [REV]
 date: 2024-01-03
 author: hexxie
 description: High level overview of binary

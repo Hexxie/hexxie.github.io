@@ -1,5 +1,5 @@
 ---
-title: Reverse engineering strategy [Beginner][REV][PWN]
+title: Reverse engineering strategy [New][REV]
 date: 2024-02-11
 author: hexxie
 description: I've created a strategy for myself to learn reverse engineering
