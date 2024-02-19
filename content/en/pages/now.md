@@ -5,7 +5,7 @@ author: hexxie
 toc: false
 ---
 
-Updated February 11th, 2024, from my home in Ukraine.  
+Updated February 22th, 2024, from my home in Ukraine.  
 
 ## 1. Cisco CCNA certification
 
