@@ -19,7 +19,7 @@ toc: false
 - [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 - [Computer Organization and Design RISC-V Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Interface-ebook/dp/B08TRLDR2Q)
 
-## Cources
+## Courses
 
 - [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/course/)
 - [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
