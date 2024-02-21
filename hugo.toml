@@ -74,6 +74,11 @@ disqusShortname = ''
     name = 'Now'
     url = '/now/'
     weight = 40
+  [[Languages.en.menu.main]]
+    pageRef="books"
+    name = 'Books'
+    url = '/books/'
+    weight = 50
 
 [Languages.en.params]
   sitename = "HexBlog"
