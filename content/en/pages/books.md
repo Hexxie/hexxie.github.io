@@ -18,6 +18,7 @@ toc: false
 ## Want to read
 - [Computer Architecture: A Quantitative Approach](https://www.amazon.com/Computer-Architecture-Quantitative-John-Hennessy/dp/012383872X)
 - [Computer Organization and Design RISC-V Edition](https://www.amazon.com/Computer-Organization-Design-RISC-V-Interface-ebook/dp/B08TRLDR2Q)
+- [Fluent Python](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 
 ## Courses
 
