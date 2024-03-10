@@ -5,36 +5,22 @@ author: hexxie
 toc: false
 ---
 
-Updated February 22th, 2024, from my home in Ukraine.  
+Updated March 10th, 2024, from my home in Ukraine.  
 
-## 1. Cisco CCNA certification
+## 1. Embedded engineering
 
-Right now I'm focusing on passing Cisco CCNA certifications. Actually, this is the 2nd attempt to do this. The first part was in 2021. I took some Ukrainian courses for this and failed because the target audience was system administrators, which I'm not part of. 
-
-This attempt would be self-learned with a focus on questions that I have as a software engineer, not a network administrator. I need deeper knowledge, of how it works from the coding perspective, not only conceptional. 
-
-### Resources:
-- Jeremy McDowell: CCNA Exam
-- IP Subnetting from Beginning to Mastery
-- CCNA 200-301 Official Cert Guide Library
-- https://www.certskills.com/
-- [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
-
-
-## 2. Reverse engineering
-
-Currently, this is my hobby. I like to take a binary and analyze how it stores and retrieves information in a stack. Also, I'm trying to take part in CTFs (Reverse/PWN section). 
-
-This is a large topic and I'm not rushing. Just having fun and learning. 
+Currently,  I'm learning about operation Systems development. Mainly I'm using xv6 OS with the corresponding MIT course. 
+Between these tasks, I'm polishing my C language knowledge with the C Expert book and Arch1001 course. Mainly, I'm preparing for 
+getting a new job next month.
 
 ### Resources:
 - [Arch1001](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/)
-- CtfTime
-- More resources in the Strategy
+- [MIT xv6](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
+- [Expert C Book](https://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298)
+- [Sedgewick Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080/ref=sr_1_5?crid=2BZTE1MD6W15V&dib=eyJ2IjoiMSJ9.df61FkX1bKPcBU66fXwwlypeKaEPcEAynV-lSvVpfygEe6hpvsuvFsI_28H1AEDCJHGOf7tTd0Oa1uPMIqpF3TTbHf7ayZqvu3QxSxeQN0fLy4MCkGvcUaBYnqKqmLzlB4vtAhaxYa-lcNVQcfKuNuma_FzdWKqpOPkpyvMufDmMpb3Mf0R8ZjpsDa0XA_SX_iImujFPWpt4tpCrlNcrbaE5g3joV8aP89iK9-X3VZY.1oSMkk97IOafIFU7olXC-AhQaqSH5Cd39CRMS8xFGjo&dib_tag=se&keywords=sedgewick&qid=1710062668&s=books&sprefix=sedgewic%2Cstripbooks-intl-ship%2C176&sr=1-5)
 
-[Reverse engineering strategy](https://hexxie.github.io/posts/articles/reverse-learning-strategy/)
 
-## 3. Communication skills
+## 2. Communication skills
 
 I want to be heard, so I created a strategy to build up my storytelling and small-talk skills.
 
