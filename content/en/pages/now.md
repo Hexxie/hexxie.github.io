@@ -5,19 +5,11 @@ author: hexxie
 toc: false
 ---
 
-Updated March 10th, 2024, from my home in Ukraine.  
+Updated April 7th, 2024, from my home in Ukraine.  
 
-## 1. Embedded engineering
+## 1. Meal Planner app
 
-Currently,  I'm learning about operation Systems development. Mainly I'm using xv6 OS with the corresponding MIT course. 
-Between these tasks, I'm polishing my C language knowledge with the C Expert book and Arch1001 course. Mainly, I'm preparing for 
-getting a new job next month.
-
-### Resources:
-- [Arch1001](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/)
-- [MIT xv6](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
-- [Expert C Book](https://www.amazon.com/Expert-Programming-Peter-van-Linden/dp/0131774298)
-- [Sedgewick Algorithms in C](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080/ref=sr_1_5?crid=2BZTE1MD6W15V&dib=eyJ2IjoiMSJ9.df61FkX1bKPcBU66fXwwlypeKaEPcEAynV-lSvVpfygEe6hpvsuvFsI_28H1AEDCJHGOf7tTd0Oa1uPMIqpF3TTbHf7ayZqvu3QxSxeQN0fLy4MCkGvcUaBYnqKqmLzlB4vtAhaxYa-lcNVQcfKuNuma_FzdWKqpOPkpyvMufDmMpb3Mf0R8ZjpsDa0XA_SX_iImujFPWpt4tpCrlNcrbaE5g3joV8aP89iK9-X3VZY.1oSMkk97IOafIFU7olXC-AhQaqSH5Cd39CRMS8xFGjo&dib_tag=se&keywords=sedgewick&qid=1710062668&s=books&sprefix=sedgewic%2Cstripbooks-intl-ship%2C176&sr=1-5)
+I've found the idea that I need to create a startup. At least I have to try once in my life. And now - it's time. I have a big idea, with a lot of small features. Now I'm working on MVC, so I can't provide you with details. I need to learn React and Django for this. Quite a challenging task for System Programmer. And I love challenges. Hope they love me too. 
 
 
 ## 2. Communication skills
