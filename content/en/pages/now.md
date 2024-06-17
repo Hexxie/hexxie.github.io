@@ -5,14 +5,21 @@ author: hexxie
 toc: false
 ---
 
-Updated April 7th, 2024, from my home in Ukraine.  
+Updated June 17th, 2024, from my home in Ukraine.  
 
-## 1. Meal Planner app
+## 1. NutriForge
 
-I've found the idea that I need to create a startup. At least I have to try once in my life. And now - it's time. I have a big idea, with a lot of small features. Now I'm working on MVC, so I can't provide you with details. I need to learn React and Django for this. Quite a challenging task for System Programmer. And I love challenges. Hope they love me too. 
+Right now I'm participiting in Ukrainian Startup School with my future meal planner. I called it NutriForge for now. 
+
+My biggest challenges are: marketing and MVP. 
+
+## 2. Becoming Product Manager
+I've finished the course on Product Management. Right now I'm seriously considering to try this specialization commercially.
+
+I've applied to Genesis Product School. Now I'm in the 2nd stage of aplication. 
 
 
-## 2. Communication skills
+## 3. Communication skills
 
 I want to be heard, so I created a strategy to build up my storytelling and small-talk skills.
 
