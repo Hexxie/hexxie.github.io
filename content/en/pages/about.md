@@ -5,21 +5,34 @@ author: hexxie
 toc: false
 ---
 
-## Hi there! I'm Anastasiia Rusak. 
+## Hi there! I’m Anastasiia Rusak.
 
-### From Software Developer to Product Manager
-Since 2016, I've been dedicated to software development, specializing in support tools for embedded devices and the automotive field. Now, I'm transitioning into a Product Manager role, bringing a unique blend of technical expertise and managerial insight.
+### From Software Developer to Solution Architect in Progress
+Since 2016, I’ve been in software development, working on everything from low-level systems to full-stack applications.  
+Today, my main focus is developing skills for **solution architecture** — designing scalable, maintainable, and efficient systems, and learning how to deploy them on **AWS** and **Google Cloud**.
 
 ### My Expertise and Interests
-My main commercial expertise lies in developing support tools for embedded devices and the automotive field. For fun, I create Telegram bots using the Python+Django stack and enjoy participating in CTF challenges as a reverse engineer.
+- **Solution architecture & system design** — currently my main learning and growth area.
+- **Side projects** — building tools and experiments, often with Python.
+- **Reverse engineering & CTF challenges** — solving puzzles and exploring how systems work.
+- **Cloud technologies** — hands-on experiments with AWS and GCP.
 
-### So why should you read me?
-- I’m a lifelong learner and want to share my observations with you.
-- I’m not afraid to try new things, from reverse engineering to machine Learning.
-- I want to show you managerial concepts from a programmer’s perspective and explain why management and sales are important for us programmers.
+In the past, I specialized in **embedded systems and automotive support tools**, but I’ve shifted my focus toward higher-level architecture and system design.
 
+### A bit about me
+I’ve been programming since I was 12, and I’m most excited when I’m solving problems, experimenting with new ideas, and figuring out how things work under the hood.
 
-## Current Focus: Meal Automation
-With a Master's degree in automation and computer-integrated technologies, I've decided to merge my technical knowledge and passion for healthy living. My latest project aims to streamline meal planning and promote healthy eating habits through automation. After all, feeling good is the ultimate goal of our efforts in work and life.
+Outside of tech, I enjoy weightlifting and exploring how physical performance connects with mental productivity.
 
-Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/arusakova/) or [Github](https://github.com/Hexxie)
+### Current Focus: NutriForge
+Right now, I’m building **NutriForge** — a project that merges my technical skills with my interest in healthy living.  
+The goal: automate meal planning and make nutrition more personalized and efficient.
+
+### Get in touch
+If you’d like to chat about tech, architecture, or just share ideas — feel free to reach out at [rusakova917@gmail.com](mailto:arusakova917@gmail.com).  
+📄 [View my CV (PDF)](/files/Nastia_CV.pdf)  
+🔗 [Linkedin](https://www.linkedin.com/in/arusakova/) | [Github](https://github.com/Hexxie)
+
+---
+
+Thanks for stopping by! 🚀
