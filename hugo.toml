@@ -41,17 +41,10 @@ disqusShortname = ''
 
   [Languages.en.menu]
   [[Languages.en.menu.main]]
-    # The page reference (pageRef) is useful for menu highlighting
-    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
-    pageRef="/"
-    name = 'Home'
-    url = '/'
-    weight = 10
-  [[Languages.en.menu.main]]
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'
-    weight = 20
+    weight = 10
   [[Languages.en.menu.main]]
     pageRef="articles"
     name = 'Articles'
@@ -63,6 +56,11 @@ disqusShortname = ''
     name = 'Weekly Digest'
     url = '/posts/weekly/'
     parent = 'Posts'
+    weight = 20
+  [[Languages.en.menu.main]]
+    pageRef="portfolio"
+    name = 'Portfolio'
+    url = '/portfolio/'
     weight = 20
   [[Languages.en.menu.main]]
     pageRef="about"
@@ -81,6 +79,7 @@ disqusShortname = ''
     weight = 50
 
 [Languages.en.params]
+  allowHTML = true
   sitename = "HexBlog"
   defaultColor = "light" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
