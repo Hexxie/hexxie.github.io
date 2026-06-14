@@ -31,3 +31,6 @@
         <script async src="{{  $custom.Permalink }}" ></script>
     {{ end }}
 {{ end }}
+
+{{ $quiz := resources.Get "js/quiz.js" | minify | fingerprint }}
+<script src="{{ $quiz.RelPermalink }}" integrity="{{ $quiz.Data.Integrity }}"></script>

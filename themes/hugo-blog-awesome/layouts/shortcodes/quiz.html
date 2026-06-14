@@ -1,0 +1,28 @@
+{{ $data := .Inner | transform.Unmarshal }}
+
+<div class="quiz">
+  {{ range $qIndex, $q := $data.questions }}
+    <div class="quiz-question" data-type="{{ $q.type }}">
+      <p>{{ add $qIndex 1 }}. {{ $q.question }}</p>
+
+      {{ range $oIndex, $option := $q.options }}
+        <label>
+          <input
+            type="{{ if eq $q.type "multi" }}checkbox{{ else }}radio{{ end }}"
+            name="q{{ $qIndex }}"
+            value="{{ $option.value }}"
+            {{ if $option.correct }}data-correct="true"{{ end }}
+          >
+          {{ $option.text }}
+        </label>
+      {{ end }}
+
+      <div class="quiz-explanation">
+        {{ $q.explanation | markdownify }}
+      </div>
+    </div>
+  {{ end }}
+
+  <button class="quiz-submit" type="button">Open answers</button>
+  <p class="quiz-result"></p>
+</div>
