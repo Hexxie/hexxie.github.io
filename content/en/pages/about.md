@@ -7,7 +7,6 @@ toc: false
 
 ## Hi there! I’m Anastasiia Rusak.
 
-### From Software Developer to Solution Architect in Progress
 Since 2016, I’ve been in software development, working on everything from low-level systems to full-stack applications.  
 Today, my main focus is developing skills for **solution architecture** — designing scalable, maintainable, and efficient systems, and learning how to deploy them on **AWS** and **Google Cloud**.
 

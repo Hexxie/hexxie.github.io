@@ -5,18 +5,26 @@ author: hexxie
 toc: false
 ---
 
-*Updated August 12th, 2025, from my home in Ukraine.*
+*Updated June 14th, 2026, from my home in Ukraine.*
 
-## 1. NutriForge
-I’m working on **NutriForge** — a startup that aims to make meal planning smarter and more personalized through automation.  
-Right now, I’m focused on designing the MVP, exploring product architecture, and deciding how to best integrate cloud services for scalability.  
-My main challenges are balancing technical development with user research.
+## How to make money...
+I've found a job in the financial sector as a C++ software engineer. It's a great opportunity to deepen my C++ expertise, learn solution architecture, multithreading, and, of course, gain a solid understanding of financial markets.
 
-## 2. Growing as a Solution Architect
-My primary learning focus is **solution architecture** — building scalable, maintainable systems from the ground up.  
-I’m currently deep-diving into:
-- **Architecture patterns** and system design principles
-- **AWS** and **Google Cloud** for deployment and scaling
-- Best practices for connecting technical decisions with business goals
+Maybe this will eventually turn into a gold mine for me.
+
+## ... and become a software engineer I ever wanted
+
+I've always wanted to be that hardcore software engineer who understands that programming isn't magic — someone who can reverse-engineer code, dig deep into systems, and track down virtually any issue.
+
+Now I'm finally working toward that goal.
+
+# THE PLAN
+
+Q3: C++ upskilling
+Q4: Design Patterns for Concurrent Applications
+----
+2027
+
+Distributed Systems, Solution Architecture (Stephane Maarek), Networking and Operating Systems (likely through xv6)
 
 Idea from [https://nownownow.com/about](https://nownownow.com/about)
